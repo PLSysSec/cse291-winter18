@@ -1,3 +1,5 @@
+serve:
+	mkdocs serve
 build:
 	mkdocs build
 publish: build
