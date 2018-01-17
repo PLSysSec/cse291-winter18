@@ -9,9 +9,9 @@ Jan 22     | [Addressing Covert Termination and Timing Channels in Concurrent In
 Jan 24     | [From trash to treasure: timing-sensitive garbage collection](papers/pedersen:trash-to-treasure.pdf) by Pedersen and Askarov.<br/> **See also:** [Predictive Black-Box Mitigation of Timing Channels](papers/askarov:predicative.pdf) by Askarov et al. | TBA
            | <center>**Analysis and design of multi-language runtime systems**</center> |
 Jan 29     | [Finding and Preventing Bugs in JavaScript Bindings](papers/brown:finding.pdf) by Brown et al. <br/> **See also:** [Finding Reference-Counting Errors in Python/C Programs with Affine Analysis](papers/li:refcount.pdf) by Li and Tan. | Erin <br/> Krishna
-Jan 31[^2] | [Linking Types for Multi-Language Software: Have Your Cake and Eat It Too](papers/patterson:linking-types.pdf) by Patterson and Ahmed.<br/> **See also:** [Operational Semantics for Multi-Language Programs](papers/matthews:multi-lang.pdf) by Matthews and Findler. | Peter
+Jan 31[^2] | [Robusta: Taming the Native Beast of the JVM](papers/robusta.pdf) by Siefers et al.<br/> **See also:** [Native Client: A Sandbox for Portable, Untrusted x86 Native Code](papers/nacl.pdf) by Yee et al. | TBA
 Feb  5     | *No class, PLDI PC meeting* |
-Feb  7     | [Robusta: Taming the Native Beast of the JVM](papers/robusta.pdf) by Siefers et al.<br/> **See also:** [Native Client: A Sandbox for Portable, Untrusted x86 Native Code](papers/nacl.pdf) by Yee et al. | TBA
+Feb 7      | [Linking Types for Multi-Language Software: Have Your Cake and Eat It Too](papers/patterson:linking-types.pdf) by Patterson and Ahmed.<br/> **See also:** [Operational Semantics for Multi-Language Programs](papers/matthews:multi-lang.pdf) by Matthews and Findler. | Peter
            | <center>**Language and runtime system design for the Web applications**</center>
 Feb 12     | [Improving application security with data flow assertions](papers/resin.pdf) by Yip et al.<br/> **See also:** [Symbolic security analysis of ruby-on-rails web applications](papers/rubyx.pdf) by Chaudhuri and Foster. | TBA
 Feb 14[^2] | [Hails: Protecting data privacy in untrusted web applications](papers/hails.pdf) by Giffin et al.<br/> **See also:** [Precise, Dynamic Information Flow for Database-Backed Applications](papers/jacqueline.pdf) by Yang et al. | TBA
