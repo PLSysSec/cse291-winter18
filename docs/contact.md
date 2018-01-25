@@ -5,6 +5,11 @@ announcements on the forum (in addition to the course page), so please make
 sure to sign up.  For urgent or personal matters matters, please contact us by
 email.
 
+
+### Slack
+
+[cse291-winter18.slack.com](https://cse291-winter18.slack.com)
+
 ### Course mailing list
 
 - **Google forum:** [ucsd-cse291-winter18](https://groups.google.com/forum/#!forum/ucsd-cse291-winter18)
