@@ -13,13 +13,13 @@ Jan 31[^2] | [Robusta: Taming the Native Beast of the JVM](papers/robusta.pdf) b
 Feb  5     | *No class, PLDI PC meeting* |
 Feb 7      | [Linking Types for Multi-Language Software: Have Your Cake and Eat It Too](papers/patterson:linking-types.pdf) by Patterson and Ahmed.<br/> **See also:** [Operational Semantics for Multi-Language Programs](papers/matthews:multi-lang.pdf) by Matthews and Findler. | Peter
            | <center>**Language and runtime system design for the Web applications**</center>
-Feb 12     | [Improving application security with data flow assertions](papers/resin.pdf) by Yip et al.<br/> **See also:** [Symbolic security analysis of ruby-on-rails web applications](papers/rubyx.pdf) by Chaudhuri and Foster. | TBA
-Feb 14[^2] | [Hails: Protecting data privacy in untrusted web applications](papers/hails.pdf) by Giffin et al.<br/> **See also:** [Precise, Dynamic Information Flow for Database-Backed Applications](papers/jacqueline.pdf) by Yang et al. | TBA
+Feb 12     | [Improving application security with data flow assertions](papers/resin.pdf) by Yip et al.<br/> **See also:** [Symbolic security analysis of ruby-on-rails web applications](papers/rubyx.pdf) by Chaudhuri and Foster. | Sanjeev
+Feb 14[^2] | [Hails: Protecting data privacy in untrusted web applications](papers/hails.pdf) by Giffin et al.<br/> **See also:** [Precise, Dynamic Information Flow for Database-Backed Applications](papers/jacqueline.pdf) by Yang et al. | Tal
 Feb 19     | *No class, Presidents' Day* |
-Feb 21     | [Protecting Users by Confining JavaScript with COWL](papers/cowl.pdf) by Stefan et al.<br/> **See also:** [Inlined information flow monitoring for JavaScript](papers/inlinejs.pdf) by Chudnov and Naumann. | TBA
+Feb 21     | *No class, NDSS* |
+Feb 26     | [Protecting Users by Confining JavaScript with COWL](papers/cowl.pdf) by Stefan et al.<br/> **See also:** [Inlined information flow monitoring for JavaScript](papers/inlinejs.pdf) by Chudnov and Naumann. | Ruth & Ariana
            | <center>**Types and verification for operating systems**</center> |
-Feb 26     | [Multiprogramming a 64 kB Computer Safely and Efficiently](papers/tock.pdf) by Levy et al.<br/> **See also:** [Language Support for Fast and Reliable Message-based Communication in Singularity OS](papers/singularity.pdf) by Fähndrich et al. | Ruth
-Feb 28[^2] | [Hyperkernel: Push-Button Verification of an OS Kernel](papers/hyperkernel.pdf) by Nelson et al.<br/> **See also:** [CertiKOS: An Extenisble Architecture for Building Certified Concurrent OS Kernels](papers/certikos.pdf) by Gu et al. | TBA
+Feb 28[^2] | [Hyperkernel: Push-Button Verification of an OS Kernel](papers/hyperkernel.pdf) by Nelson et al.<br/> **See also:** [CertiKOS: An Extenisble Architecture for Building Certified Concurrent OS Kernels](papers/certikos.pdf) by Gu et al. | Kaiser
 Mar  5     | [Ironclad Apps: End-to-End Security via Automated Full-System Verification](papers/ironclad-apps.pdf) by Hawblitzel et al.<br/> **See also:** [Comprehensive Formal Verification of an OS Microkernel](papers/sel4.pdf) by Klein et al. | Jeyavaishnavi
            | <center>**Symbolic execution for arbitrary code**</center>
 Mar  7     | [Under-constrained symbolic execution: correctness checking for real code](papers/ucklee.pdf) by Ramos and Engler.<br/> **See also:** [Symbolic Execution for Software Testing: Three Decades Later](papers/cadar:symexe.pdf) by Cadar and Sen and [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](papers/klee.pdf) by Cadar et al. | Sourav
