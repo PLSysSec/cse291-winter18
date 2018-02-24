@@ -19,7 +19,7 @@ Feb 19     | *No class, Presidents' Day* |
 Feb 21     | *No class, NDSS* |
 Feb 26     | [Protecting Users by Confining JavaScript with COWL](papers/cowl.pdf) by Stefan et al.<br/> **See also:** [Inlined information flow monitoring for JavaScript](papers/inlinejs.pdf) by Chudnov and Naumann. | Ruth & Ariana
            | <center>**Types and verification for operating systems**</center> |
-Feb 28[^2] | [Hyperkernel: Push-Button Verification of an OS Kernel](papers/hyperkernel.pdf) by Nelson et al.<br/> **See also:** [CertiKOS: An Extenisble Architecture for Building Certified Concurrent OS Kernels](papers/certikos.pdf) by Gu et al. | Kaiser
+Feb 28[^2] | [Multiprogramming a 64kB Computer Safely and Efficiently](papers/tock.pdf) by Levy et al.<br/> **See also:** [Language Support for Fast and Reliable Message-based Communication in Singularity OS](papers/singularity.pdf) by Fahndrich et al. | Kaiser
 Mar  5     | [Ironclad Apps: End-to-End Security via Automated Full-System Verification](papers/ironclad-apps.pdf) by Hawblitzel et al.<br/> **See also:** [Comprehensive Formal Verification of an OS Microkernel](papers/sel4.pdf) by Klein et al. | Jeyavaishnavi
            | <center>**Symbolic execution for arbitrary code**</center>
 Mar  7     | [Under-constrained symbolic execution: correctness checking for real code](papers/ucklee.pdf) by Ramos and Engler.<br/> **See also:** [Symbolic Execution for Software Testing: Three Decades Later](papers/cadar:symexe.pdf) by Cadar and Sen and [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](papers/klee.pdf) by Cadar et al. | Sourav
